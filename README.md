@@ -1,4 +1,4 @@
-### Hi there 👋
+### Front-End Developer 👋
 
 <!--
 **jsj1510/jsj1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
